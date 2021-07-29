@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Assignment - 1</title>
+</head>
+
+<body>
+<table>
+
+<tr>
+<th>Name</th>
+<th>Email</th>
+<th>Picture</th>
+</tr>
+
+
+
+<tr>
+<td>Jenifer Grace I</td>
+<td>jenifergrace76@gmail.com</td>
+<td><img src="https://images.app.goo.gl/peWfKD5UEmGmoNxA6"  alt="Display Picture"></td>
+</tr>
+
+</table>
+</body>
+</html>
